@@ -20,12 +20,12 @@
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/JeremyLezmy/CyberPacMan.git
+   cd CyberPacMan
    ```
 2. Install dependencies:
    ```bash
-   pip install pygame
+   pip install -r requirements.txt
    ```
 3. Ensure the following assets are available in their respective directories:
    - Fonts: `fonts/cyberpunk.ttf` (fallback to `couriernew` if unavailable)
